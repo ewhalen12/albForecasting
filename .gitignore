@@ -1,7 +1,5 @@
 *.bat
 *.oml
 *.asv
-*.png
-*.jpg
 *.mat
 /maps/map0
